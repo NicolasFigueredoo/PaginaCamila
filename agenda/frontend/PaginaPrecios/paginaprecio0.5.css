@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Mukta:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+#pagnav{
+   background-color:#FAFBFD;
+    height: 130px;
+
+    
+}
+
+
+#LogoFrida{
+    font-family: 'Lobster', cursive;
+    color: black;
+    font-size: 70px;
+
+      }
+
+.table{
+    width: 900px;
+    margin-left: 200px;
+}
+
+body{
+    background-image: url("../Estilos/Imagenes/imgprecios/f2.jpg");
+    width: 100%;
+background-size: cover;    
+}
+
+
+#servicios{
+    width: 900px;
+}
+
+
+footer{
+    height: 150px;
+
+    
+}
+
+.contaniner_footer{
+    background-color: #F7F5F6;
+    margin-top: 50px;
+
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.box_footer{
+margin: auto; 
+   font-size: 15px;
+   height: 150px;
+}
+
+
+.icon{
+    color: black;
+font-size: 30px;
+}
+.card{
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    border: solid 2px rgb(124,138,75) ;
+
+}
+#titulo{
+
+    font-weight: 700;
+    font-family: 'Lato', sans-serif;
+
+}
+
+#tiempo{
+    color: gray;
+    font-weight: 700;
+
+}
+#duracion{
+    color: gray;
+    font-weight: 700;
+
+}
+
+#valor{
+    background-color: rgb(124,138,75);
+    padding-left: 0;
+    margin-bottom: 20px;    width: 100%;
+}

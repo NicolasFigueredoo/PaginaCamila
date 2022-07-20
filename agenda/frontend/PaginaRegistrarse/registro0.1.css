@@ -1,0 +1,36 @@
+body{
+    background-image: url("../Estilos/Imagenes/imgcontacto/fondo5.jpg");
+    background-size: cover;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Mukta:wght@200&display=swap');
+
+#pagnav{
+   background-color:#FAFBFD;
+    height: 130px;
+
+    
+}
+
+
+#LogoFrida{
+    font-family: 'Lobster', cursive;
+    color: black;
+    font-size: 70px;
+
+      }
+#registro{
+    background-color: transparent;
+}
+
+
+#botonregistro{
+    background-color: transparent;
+    color: black;
+    border: none;
+}
+
+#inicosesion{
+    color: black;
+}

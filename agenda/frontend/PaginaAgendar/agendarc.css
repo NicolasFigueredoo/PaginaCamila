@@ -1,0 +1,55 @@
+
+
+
+body{
+
+    background-image: url('../Estilos/Imagenes/imgcontacto/fondo5.jpg');
+    background-size: cover;
+    backdrop-filter: blur(6px);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Mukta:wght@200&display=swap');
+
+#pagnav{
+   background-color:#FAFBFD;
+    height: 130px;
+
+    
+}
+
+
+#LogoFrida{
+    font-family: 'Lobster', cursive;
+    color: black;
+    font-size: 70px;
+}
+
+#titulo{
+    background-color: #f8d7da;
+    padding-top: 10px;
+}
+#formulario{
+    color: black;
+    font-weight: 700;
+
+}
+
+#formulario label{
+    font-family: 'Mukta', sans-serif;
+        color: black;
+    font-weight: 700;
+
+}
+
+#botonturno{
+    background-color: transparent;
+    border: none;
+
+}
+
+#botonadmin{
+
+    background-color: transparent;
+    border: none;
+    color: black;
+}

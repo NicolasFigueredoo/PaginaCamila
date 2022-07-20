@@ -1,0 +1,72 @@
+body{
+background-image: url("../Estilos/Imagenes/imgcontacto/fondo1.jpg");
+background-size: cover;
+
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Mukta:wght@200&display=swap');
+
+#pagnav{
+   background-color:#FAFBFD;
+    height: 130px;
+
+    
+}
+
+
+#LogoFrida{
+    font-family: 'Lobster', cursive;
+    color: black;
+    font-size: 70px;
+
+      }
+
+
+.container{
+    background-color: transparent;
+    backdrop-filter: blur(6px);
+
+}
+#txt_textC{
+    min-width: 640px;
+    max-width: 100%;
+    min-height: 150px;
+    max-height: 200px;
+}
+
+#txt_textC{
+    background-color: transparent;
+}
+
+#botoncontacto{
+    background-color: transparent;
+    color: black;
+ }
+
+ footer{
+    height: 150px;
+
+    
+}
+
+.contaniner_footer{
+    background-color: #F7F5F6;
+    margin-top: 50px;
+
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.box_footer{
+margin: auto; 
+   font-size: 15px;
+   height: 150px;
+}
+
+
+.icon{
+    color: black;
+font-size: 30px;
+}
